@@ -2,6 +2,7 @@
 
 > Aplicação SPA desenvolvida com Angular e JSON Server para gestão de vagas e currículos, com autenticação e autorização por perfil de usuário.
 
+![Image](https://github.com/user-attachments/assets/ed417fba-e632-42f2-8343-dd5082107516)
 ---
 
 ## 📌 Índice
