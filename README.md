@@ -125,7 +125,7 @@ O sistema deve permitir:
 ## Membros 
 
 - Matheus Costa Ribeiro
-- Nathaly Smanioto
+- Nathaly Maria Gallante Smanioto
 - Thauany Zambon
 - Vitor Gabriel
 
