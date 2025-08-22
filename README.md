@@ -16,7 +16,7 @@
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Diagramas](#-Diagramas)
 - [Protótipo](#-Protótipo)
-- [Autores](#-autores)
+- [Autores](#-Autores)
 
 ---
 
@@ -53,7 +53,7 @@ O sistema deve permitir:
 - **Desenvolvedores Frontend** – Criação da interface e implementação no Angular. -> Matheus Costa
 - **Design de Prototipo** – Criação dos protótipos no Figma -> Nathaly Smanioto, Thauany Zambon
 - **Analista do Sistema** – Criação dos diagramas de Fluxo, Uso e Classe -> Vitor Gabriel  
-- **Testadores** – Grupo
+- **Documentador técnico** – Nathaly Smanioto
 
 ### **Ferramentas de Desenvolvimento**
 - **Frontend:** Angular, SCSS, Reactive Forms.  
@@ -109,23 +109,38 @@ O sistema deve permitir:
 
 **Diagrama de Casos de Uso**
 
+<img width="383" height="937" alt="Image" src="https://github.com/user-attachments/assets/ae7bf6a7-c2c4-4581-8544-78686c6388dc" />
 
+---
 
 **Diagrama de Fluxo**
+
+<img width="383" height="937" alt="Image" src="https://github.com/user-attachments/assets/56e515d7-9aed-4f13-8d0d-13beda775708" />
+
+---
 
 
 
 **Diagrama de Classe**
+
+<img width="828" height="583" alt="Image" src="https://github.com/user-attachments/assets/ec2f23a8-b077-4712-b889-61985fc2d3d0" />
+
+---
+
+**Diagrama de Autentificação**
+
+<img width="383" height="937" alt="Image" src="https://github.com/user-attachments/assets/2f4348ae-29f3-41ae-880e-63ef5b63510e" />
+
 
 
 ## 📝 Protótipo
 
 
 
-## Membros 
+## 👤Autores
 
 - Matheus Costa Ribeiro
 - Nathaly Maria Gallante Smanioto
 - Thauany Zambon
-- Vitor Gabriel
+- Vitor Gabriel Medeiros de Paula
 
