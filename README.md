@@ -15,7 +15,6 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Diagramas](#-Diagramas)
-- [Protótipo](#-Protótipo)
 - [Autores](#-Autores)
 
 ---
