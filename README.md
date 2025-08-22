@@ -131,11 +131,7 @@ O sistema deve permitir:
 
 <img width="383" height="937" alt="Image" src="https://github.com/user-attachments/assets/2f4348ae-29f3-41ae-880e-63ef5b63510e" />
 
-
-
-## 📝 Protótipo
-
-
+---
 
 ## 👤Autores
 
